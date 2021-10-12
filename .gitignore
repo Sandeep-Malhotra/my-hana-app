@@ -28,3 +28,6 @@ mta_archives/
 .vscode
 .idea
 .vscode/
+
+# Environment Variables
+**/.env
